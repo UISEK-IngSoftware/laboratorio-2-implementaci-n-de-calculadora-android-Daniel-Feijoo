@@ -117,6 +117,7 @@ class CalculatorViewModel : ViewModel() {
         }
     }
 
+
     private fun clearAll() {
         number1 = ""
         number2 = ""
